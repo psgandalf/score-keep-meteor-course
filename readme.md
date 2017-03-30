@@ -1,5 +1,5 @@
 # Short Lnk
 
-This is a link shotener program made in Meteor and React.
+This is a score-keeping program made in Meteor and React.
 
 ## Author Mikael Eklund
